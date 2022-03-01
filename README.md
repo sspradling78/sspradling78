@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences (Under Construction)
 
-- ⚡ Fun fact **I love to make music!**
+- ⚡ Fun fact **I love to make music with any instrument I can get my hands on!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
