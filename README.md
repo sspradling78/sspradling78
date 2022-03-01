@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Data Science w/Python**
 
-- 👨‍💻 All of my projects are available at ((Under Construction))
+- 👨‍💻 All of my projects are available at (Under Construction)
 
 - 📫 How to reach me **sspradling78@gmail.com**
 
-- 📄 Know about my experiences ((Under Construction))
+- 📄 Know about my experiences (Under Construction)
 
 - ⚡ Fun fact **I love to make music!**
 
