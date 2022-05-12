@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently getting ready to graduate **Data Science w/Python** **@bloominstituteoftechnology**
 
-- 👨‍💻 All of my projects are available in my repositories.
+- 👨‍💻 All of my projects are pinned down below
 
 - 📫 How to reach me **sspradling78@gmail.com**
 
