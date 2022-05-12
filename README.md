@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Stephen Spradling.</h1>
 <h3 align="center">Current Data Science student @BloomTech. Wanting to be the best Data Scientist in the US!</h3>
