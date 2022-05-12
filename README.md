@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sspradling78&label=Profile%20views&color=0e75b6&style=flat" alt="sspradling78" /> </p>
 
-- 🌱 I’m currently learning **Data Science w/Python**
+- 🌱 I’m currently getting ready to graduate **Data Science w/Python** @bloom
 
 - 👨‍💻 All of my projects are available at (Under Construction)
 
