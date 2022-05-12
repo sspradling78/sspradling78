@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently getting ready to graduate **Data Science w/Python** **@bloominstituteoftechnology**
 
-- 👨‍💻 All of my projects are available at (Under Construction)
+- 👨‍💻 All of my projects are available in my repositories.
 
 - 📫 How to reach me **sspradling78@gmail.com**
 
-- 📄 Know about my experiences (Under Construction)
+- 📄 Know about my experiences -- Interview me
 
 - ⚡ Fun fact **I love to make music with any instrument I can get my hands on!**
 
