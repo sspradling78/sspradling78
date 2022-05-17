@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Stephen Spradling.</h1>
-<h3 align="center">Current Data Science student @BloomTech. Wanting to be the best Data Scientist in the US!</h3>
+<h3 align="center">I am now a Data Scientist, thanks to BloomTech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sspradling78&label=Profile%20views&color=0e75b6&style=flat" alt="sspradling78" /> </p>
 
 - 🌱 I’m currently getting ready to graduate **Data Science w/Python** **@bloominstituteoftechnology**
 
-- 👨‍💻 All of my projects are pinned down below
+- 👨‍💻 All of my projects are pinned down below, and more to come.
 
-- 📫 How to reach me **sspradling78@gmail.com**
+- 📫 How to reach me -  **sspradling78@gmail.com**
 
 - 📄 Know about my experiences -- Interview me
 
