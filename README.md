@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sspradling78&label=Profile%20views&color=0e75b6&style=flat" alt="sspradling78" /> </p>
 
-- 🌱 I’m currently getting ready to graduate **Data Science w/Python** **@bloominstituteoftechnology**
+- 🌱 I have now graduated **Data Science w/Python** **@bloominstituteoftechnology**
 
 - 👨‍💻 All of my projects are pinned down below, and more to come.
 
